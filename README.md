@@ -1,5 +1,5 @@
 # Pokémon Edición Heart Red - Traducción al Español
-Esta es una modificación de la ROM de Pokémon HeartGold Version que tiene como objetivo recrear el clásico videojuego Pokémon Rojo con las capacidades de la Nintendo DS.
+Modificación de la ROM de Pokémon HeartGold Version que tiene como objetivo recrear el clásico videojuego Pokémon Rojo con las capacidades de la Nintendo DS.
 
 Esta es una traducción completa al español, adaptando tanto los diálogos como la interfaz para una experiencia accesible.
 
