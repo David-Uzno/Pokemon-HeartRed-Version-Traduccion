@@ -1,0 +1,14 @@
+# Este archivo .gitignore debe ubicarse en la raiz del directorio de tu proyecto de traduccion.
+#
+
+# Carpetas
+**/data
+**/overlay
+**/unpacked/*
+!**/unpacked/textArchives
+
+# Archivos BIN
+**/*.bin
+
+# Archivo ROM
+*.nds
